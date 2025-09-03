@@ -37,3 +37,25 @@ chmod +x bounty_auto_filtered.sh starbucks_api_test.sh
 # run the single-endpoint tester and capture output
 ./starbucks_api_test.sh | tee starbucks_poc.txt
 
+
+
+
+
+-----------------
+🧭 What this demonstrates (skills)
+
+Recon & automation: writing bash scripts to test many endpoints quickly.
+
+Basic API testing using curl and simple payload variation (empty/junk/broken JSON).
+
+How to build repeatable PoC evidence for vulnerability reporting.
+
+Understanding that impact matters: not all findings are bounty-eligible (open redirects often require extra impact to be valid).
+
+⚠️ Disclaimer — Responsible / Educational Use
+
+This repository is for educational purposes only and documents responsible testing performed within the Starbucks HackerOne program scope.
+
+Do not use these scripts against targets you do not have permission to test.
+
+Do not publish any sensitive data or private logs. Remove or redact any confidential output before sharing.
