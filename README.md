@@ -59,3 +59,11 @@ This repository is for educational purposes only and documents responsible testi
 Do not use these scripts against targets you do not have permission to test.
 
 Do not publish any sensitive data or private logs. Remove or redact any confidential output before sharing.
+
+
+
+
+
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
